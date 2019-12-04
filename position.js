@@ -1,0 +1,1 @@
+console.log("hello world depuis un fichier externe");
